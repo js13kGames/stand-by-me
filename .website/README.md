@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - shooter
 directors_cut: https://herebefrogs.com/stand-by-me
 post: https://medium.com/@herebefrogs/stand-by-me-a-js13kgames-2022-post-mortem-f14edb0d3304
 # See github.com/js13kGames/hello-world for supported frontmatter
